@@ -1,0 +1,25 @@
+
+body{
+font-family: 'Source Sans Pro', sans-serif;}
+
+
+    
+ 
+  p{font-family: 'Oswald', sans-serif;
+      
+      margin-top:30px;
+      margin-right:10px;
+      margin-left:50px;
+      text-align: center
+  }
+  .bord{
+      border-left: 2px solid black;
+      display:inline-block;
+      float:left;
+      width:30%
+  }
+
+
+
+
+
